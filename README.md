@@ -1,4 +1,4 @@
-![Esperanza](source/orf/img/Esperanza.png)
+![Esperanza](source/img/Esperanza.png)
 
 # Esperanza Sans
 
