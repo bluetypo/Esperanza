@@ -4,6 +4,9 @@
 
 **Esperanza Sans** es una tipografía nacida de la necesidad de narrar historias de transformación y coraje. La calidez de sus trazos, rinden homenaje a la capacidad humana de reinventarse ante la adversidad. Diseñada para dar fuerza y presencia a los sueños que se construyen con las manos, esta fuente de trazo vivo acompaña a quienes deciden emprender un camino propio. Es una herramienta para reclamar el presente y escribir, con paso firme y decidido, un futuro de esperanza. La familia contempla 4 variantes: Regular, Regular Bold, Italic, Italic Bold.
 
+<img src="source/img/logo.png" alt="Esperanza" width="250" height="250">
+
+
 ## Equipo y colaboración
 Proyecto desarrollado de forma colaborativa por:
 - Alejandro Magallanes
@@ -28,5 +31,3 @@ Proyecto desarrollado de forma colaborativa por:
 
 ## Licencia
 **Propietaria / uso exclusivo.** Consulta `LICENSE.txt`.
-
-<img src="source/img/logo.png" alt="Esperanza" width="250" height="250">
