@@ -1,0 +1,27 @@
+# --- macOS System Files ---
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# --- Files that might appear in the root ---
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# --- Font Development Specifics ---
+# Ignorar archivos temporales que crea GlyphsApp al exportar o guardar
+*.autosave
+*.bak
+[Tt]emp/
+build/
+
+# Si usas Python para scripts tipográficos
+__pycache__/
+*.pyc
+
+# --- Office/Doc specifics (Precios/Notas) ---
+~$*
+.~lock.*
