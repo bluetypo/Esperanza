@@ -29,4 +29,4 @@ Proyecto desarrollado de forma colaborativa por:
 ## Licencia
 **Propietaria / uso exclusivo.** Consulta `LICENSE.txt`.
 
-![Esperanza](source/img/logo.png | width=100)
+![Esperanza](source/img/logo.png  =250x250)
