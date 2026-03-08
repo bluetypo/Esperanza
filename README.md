@@ -7,8 +7,8 @@
 <img src="source/img/logo.png" alt="Esperanza" width="250" height="250">
 
 
-##Créditos
-Alejandro Magallanes, Montserrat Aguirre, Alex Montoya, Manuel Guerrero, Mónica Munguía, Pedro Sosa
+## Céditos
+- Alejandro Magallanes, Montserrat Aguirre, Alex Montoya, Manuel Guerrero, Mónica Munguía, Pedro Sosa
 
 > Este repositorio documenta y organiza las fuentes, exports, builds de prueba y materiales de trabajo.  
 > El uso de la tipografía está restringido por una licencia de **uso exclusivo** (ver `LICENSE.txt`).
